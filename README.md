@@ -1,3 +1,2 @@
 # example
-hellow man
-hi
+hellow man hi
